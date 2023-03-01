@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/rettake/Desktop/JSM/framerMotion/app/page":["/Users/rettake/Desktop/JSM/framerMotion/styles/globals.css"]},"/Users/rettake/Desktop/JSM/framerMotion/app/layout.js":["/Users/rettake/Desktop/JSM/framerMotion/styles/globals.css"]}
